@@ -5,4 +5,4 @@
 
 ## Summary
 
-This repository contains all of the noites taken be Isaac for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the noites taken be [Isaac](https://github.com/isaacsmitty) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
